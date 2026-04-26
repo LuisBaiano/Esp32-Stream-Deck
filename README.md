@@ -23,6 +23,7 @@ A physical controller (Stream Deck) built with an ESP32 and an ST7735 display (1
 | Component | ESP32 Pin |
 | :--- | :--- |
 | **Button 1 (PC Camera)** | 15 |
+| **Button 2 (Phone Camera)** | 2 |
 | **Button 3 (Arduino IDE)** | 0 |
 | **Button 4 (PC + Arduino)** | 4 |
 | **Display CS** | 5 |
